@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thuytv-gl, I'm a Vietnamese developer. You can call me Thuy
+- 👋 Hi, I’m @thuy, I'm a Senior Web Developer
 - 👀 I’m interested in
   - coding
   - ricing linux (alittle)
