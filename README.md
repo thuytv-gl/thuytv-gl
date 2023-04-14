@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @thuy, I'm a Senior Web Developer
-- 👀 I’m interested in
-  - coding
-  - ricing linux (alittle)
-  - learn and try new technology
-- 💞️ I’m looking to collaborate on a Rust, Typescript, Javascript, NodeJS, ReactJS projects...
-- 📫 I'm on Skype: live:thien.oishi
+- 👋 Hi, I’m @thuy, I'm a Developer
 
 <!---
 thuytv-gl/thuytv-gl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
