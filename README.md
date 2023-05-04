@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thuy, I'm a Developer
+- 👋 Hi there
 
 <!---
 thuytv-gl/thuytv-gl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
